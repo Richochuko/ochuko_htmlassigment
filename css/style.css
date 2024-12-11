@@ -1,0 +1,142 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 4;
+}
+
+
+
+body{
+
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 24px;
+    margin-left: 16px;
+    text-align: justify;
+    margin-right: 16px;
+   
+}
+
+
+h1{
+
+    color: blue;
+
+}
+
+
+.heading{
+    color:rgb(168, 110, 223);
+}
+
+
+#menu{
+    background-color: blue;
+    width: auto;
+    color: #fff;
+    padding: 16px 40px;
+    text-align: center;
+    border-radius: 8px;
+}
+
+
+#menu p{
+    text-align: center;
+    margin-left: 16px;
+}
+
+
+#menu a{
+    text-decoration: none;
+    color: #fff;
+    font-weight: 550;
+    background-color: rgb(49, 3, 92);
+    padding: 16px 32px;
+    margin: 16px 24px;
+    border-radius: 15px;
+    display: inline-block;
+}
+    
+
+#menu a:hover{
+    background-color: rgb(168, 110, 223);
+}
+
+
+#hero{
+    background-color: rgb(211, 211, 233);
+    height: 300px;
+    width: auto;
+    border-radius: 8px;
+    text-align: center;
+    padding-top: 50px;
+    
+    
+}
+
+#hero a{
+    background-color: blue;
+    text-decoration: none;
+    padding: 15px;
+    border-radius: 8px;
+    margin-top: 32px;
+    color: #fff;
+    font-weight: 500;
+    display: inline-block;
+
+}
+
+
+#hero a:hover{
+    background-color: rgb(168, 110, 223);
+}
+
+
+#courses{
+    margin-top: 40px;
+}
+
+
+#courses h1{
+    text-align: center;
+    color: rgb(19, 19, 51);
+    font-size: 3rem;
+    
+}
+
+
+#courses h3{
+    text-align: center;
+    color: rgb(19, 19, 51);
+    font-size: 3rem;
+    width: auto;
+    line-height: 40px;
+}
+
+
+
+#courses ul{
+    margin-left: 16px;
+}
+
+#form{
+    text-align: center;
+    
+}
+
+
+#courses img{
+    height: 280px;
+    margin: 0px, 120px;
+    border-radius: 8px;
+  
+}
+
+
+#courses p{
+    text-align: center;
+}
+
+
+
+
